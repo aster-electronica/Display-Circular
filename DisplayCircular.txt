@@ -1,0 +1,20 @@
+Display Circular
+
+En este repositorio existen ejemplos para la puesta en marcha del
+Display Circular para el Arduino IDE usando el ESP32 Devkit.
+
+Conexiones:
+    Esp32 DevKit | Display Circular
+  *   3.3V ó Vin -> VCC
+  *          GND -> GND
+  *          D18 -> SCL
+  *          D23 -> SDA
+  *          D33 -> RST  
+  *          D27 -> DC
+  *          D5  -> CS
+  *          D22 -> BL
+  
+Aster electronica
+Display Circular GC9A01 240x240
+Prueba de funcionamiento
+Por Miguel AngelLo.
