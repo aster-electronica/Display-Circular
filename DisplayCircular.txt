@@ -18,3 +18,8 @@ Aster electronica
 Display Circular GC9A01 240x240
 Prueba de funcionamiento
 Por Miguel AngelLo.
+
+IMPORTANTE:
+Deberás contar con la biblioteca 'Arduino_GFX_Library' instalada en tu Arduino IDE
+puedes descargarla en el siguiente enlace
+https://github.com/moononournation/Arduino_GFX
