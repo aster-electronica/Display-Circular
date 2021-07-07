@@ -1,0 +1,10 @@
+Conexiones:
+    Esp32 DevKit | Display Circular
+  *   3.3V ó Vin -> VCC
+  *          GND -> GND
+  *          D18 -> SCL
+  *          D23 -> SDA
+  *          D33 -> RST  
+  *          D27 -> DC
+  *          D5  -> CS
+  *          D22 -> BL
