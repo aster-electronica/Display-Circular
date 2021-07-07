@@ -6,3 +6,6 @@ Deberás tener instalada la siguiente biblioteca para el debido funcionamiento d
 
 https://github.com/moononournation/Arduino_GFX
 
+# Documentación de interés 
+
+https://cdn-learn.adafruit.com/downloads/pdf/adafruit-gfx-graphics-library.pdf
