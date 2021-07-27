@@ -2,9 +2,9 @@
  
   *  Áster Electrónica
   *  Display Circular GC9A01 240x240.
-  *  Ejemplo 'Hola Mundo Random' para ESP32 DevKit
-  *  Abstract: En este ejemplo aparecerá el mensaje 'Hola Mundo' en diferentes lugares de nuestra pantalla
-  *  con un color de font, de fondo y tamaño aleatorio.
+  *  Ejemplo 'Animación' para ESP32 DevKit
+  *  Abstract: En este ejemplo aparecerá una animación realizada con bucles for y comandos básicos de gráficos GFX, se verán circulos concentricos
+  *  que cambian de color aleatoriamente.
   *  Modificado y comentado por Miguel AngelLo.
   *  Conexiones físicas:
   *  Esp32 DevKit | Display Circular
