@@ -1,0 +1,10 @@
+  *  Conexiones físicas:
+  *  UNO/NANO/ProMini | Display Circular
+  *        3.3V ó Vin -> VCC
+  *               GND -> GND
+  *               D13 -> SCL
+  *               D11 -> SDA
+  *               D7  -> RST  
+  *               D8  -> DC
+  *               D9  -> CS
+  *               D6  -> BL
