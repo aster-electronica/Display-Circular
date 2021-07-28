@@ -4,7 +4,7 @@
   *  Display Circular GC9A01 240x240.
   *  Ejemplo 'Hola Mundo Random' para Tarjetas UNO, NANO y Pro Mini con ATmega328 a 16MHz.
   *  Abstract: En este ejemplo aparecerá el mensaje 'Hola Mundo' en el centro de la pantalla
-  *  en un fondo blanco con font de color negro.
+  *  en un fondo blanco con font de color azul.
   *  Modificado y comentado por Miguel AngelLo.
   *  Conexiones físicas:
   *  UNO/NANO/ProMini | Display Circular
