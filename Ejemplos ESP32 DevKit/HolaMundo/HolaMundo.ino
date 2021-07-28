@@ -3,8 +3,8 @@
   *  Áster Electrónica
   *  Display Circular GC9A01 240x240.
   *  Ejemplo 'Hola Mundo Random' para ESP32 DevKit
-  *  Abstract: En este ejemplo aparecerá el mensaje 'Hola Mundo' en diferentes lugares de nuestra pantalla
-  *  con un color de font, de fondo y tamaño aleatorio.
+  *  Abstract: En este ejemplo aparecerá el mensaje 'Hola Mundo' en el centro de la pantalla
+  *  en un fondo blanco con font de color azul.
   *  Modificado y comentado por Miguel AngelLo.
   *  Conexiones físicas:
   *  Esp32 DevKit | Display Circular
@@ -70,8 +70,8 @@ void loop()
     gfx->setCursor(30, 110);
     //Ajustamos el tamaño de la escala x,y a 3 sin margen de pixel
     gfx->setTextSize(3/* x scale */,3/* y scale */,0/* pixel_margin */);
-    //Declaramos el siguiente texto en rojo (se pueden usar colores hexadecimales)
-    gfx->setTextColor(BLACK);
+    //Declaramos el siguiente texto en azul (se pueden usar colores hexadecimales)
+    gfx->setTextColor(BLUE);
     //Envíamos una cadena de texto 
     gfx->println("Hola Mundo!");
     //Retardo de 5 segundos
